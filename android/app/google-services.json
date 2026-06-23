@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "156660024726",
+    "project_id": "auraap-f38f5",
+    "storage_bucket": "auraap-f38f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156660024726:android:1653dce4263f9e626589b7",
+        "android_client_info": {
+          "package_name": "com.example.visionaid_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156660024726-ls59i3j29e3q1g1les2el34af2tgb09k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.visionaid_app",
+            "certificate_hash": "b63557dae782bd2aa2f1d3531548c303be482553"
+          }
+        },
+        {
+          "client_id": "156660024726-debugkey.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.visionaid_app",
+            "certificate_hash": "20e4f627db679af63c699e031d51850127a4a030"
+          }
+        },
+        {
+          "client_id": "156660024726-eflmmmoj5ps824ngb02krmj6a3rpuc8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoXIArZQjinQlZTewYHEy9S7ZD_MJVBLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156660024726-eflmmmoj5ps824ngb02krmj6a3rpuc8m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156660024726-ft3qplec75h3fn21vu5fqelldpmkr6mk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "au"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

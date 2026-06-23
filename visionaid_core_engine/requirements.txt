@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+deepface
+firebase-admin
+numpy
+opencv-python-headless
+tf-keras
+scipy
+langchain
+langchain-google-genai
+langgraph
+python-dotenv
