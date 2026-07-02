@@ -1,4 +1,4 @@
-# Aura App
+# Aura App Complete Project 
 
 A Flutter mobile application for vision assistance, providing features like live vision, OCR reading, face recognition, and more.
 
