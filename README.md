@@ -1,4 +1,4 @@
-# VisionAid App
+# Aura App
 
 A Flutter mobile application for vision assistance, providing features like live vision, OCR reading, face recognition, and more.
 
